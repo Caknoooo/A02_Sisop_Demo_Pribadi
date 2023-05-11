@@ -13,7 +13,7 @@ int main()
   int shmid;
   key_t key = 1234;
   double *luas;
-  const double pi = 3.14159;
+  const double pi = 3.14;
   const int r = 7;
   const int t = 10;
 
